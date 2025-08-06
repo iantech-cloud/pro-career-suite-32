@@ -91,6 +91,14 @@ export const AppRoutes = () => {
         } 
       />
       <Route 
+        path="/dashboard/:tier" 
+        element={
+          <ProtectedRoute>
+            <MainDashboardPage />
+          </ProtectedRoute>
+        } 
+      />
+      <Route 
         path="/main-dashboard" 
         element={
           <ProtectedRoute>

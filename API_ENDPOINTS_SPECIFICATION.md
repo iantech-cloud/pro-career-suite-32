@@ -1,6 +1,6 @@
-# API Endpoints Specification for Node.js Backend
+# API Endpoints Specification for Python Backend
 
-This document specifies all the API endpoints that your Node.js backend must implement to work with the OneSocialStack frontend.
+This document specifies all the API endpoints that your Python backend must implement to work with the OneSocialStack frontend.
 
 ## Base URL
 ```
@@ -664,4 +664,4 @@ Base URL: /api
    - Security headers
    - CSRF protection
 
-This specification ensures your Node.js backend will be fully compatible with the OneSocialStack frontend application.
+This specification ensures your Python backend will be fully compatible with the OneSocialStack frontend application.

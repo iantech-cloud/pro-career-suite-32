@@ -1,6 +1,6 @@
 # API Endpoints Documentation
 
-This document outlines all the API endpoints that your Node.js backend with MongoDB needs to implement for the Career Tools application.
+This document outlines all the API endpoints that your Python backend needs to implement for the Career Tools application.
 
 ## Base URL Configuration
 The application expects the API base URL to be configured via the `VITE_API_URL` environment variable.
